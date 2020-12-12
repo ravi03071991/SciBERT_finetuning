@@ -1,2 +1,2 @@
 # SciBERT_finetuning
-Finetuning SciBERT model for text classification
+This repository contains finetuning of SciBERT for text classification using Pytorch.
